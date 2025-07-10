@@ -1,0 +1,50 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#fefce8"/>
+  
+  <!-- Plate -->
+  <ellipse cx="200" cy="200" rx="140" ry="70" fill="#ffffff" stroke="#e5e7eb" stroke-width="3"/>
+  
+  <!-- Pasta base -->
+  <g transform="translate(200, 180)">
+    <!-- Spaghetti strands -->
+    <path d="M-60,-20 Q-30,-30 0,-25 Q30,-20 60,-15" stroke="#fbbf24" stroke-width="4" fill="none"/>
+    <path d="M-70,-10 Q-35,-20 0,-15 Q35,-10 70,-5" stroke="#f59e0b" stroke-width="4" fill="none"/>
+    <path d="M-50,-30 Q-25,-40 0,-35 Q25,-30 50,-25" stroke="#fbbf24" stroke-width="4" fill="none"/>
+    <path d="M-80,0 Q-40,-10 0,-5 Q40,0 80,5" stroke="#f59e0b" stroke-width="4" fill="none"/>
+    <path d="M-65,10 Q-32,0 0,5 Q32,10 65,15" stroke="#fbbf24" stroke-width="4" fill="none"/>
+    <path d="M-55,20 Q-27,10 0,15 Q27,20 55,25" stroke="#f59e0b" stroke-width="4" fill="none"/>
+    <path d="M-45,30 Q-22,20 0,25 Q22,30 45,35" stroke="#fbbf24" stroke-width="4" fill="none"/>
+  </g>
+  
+  <!-- Tomato sauce -->
+  <ellipse cx="180" cy="170" rx="15" ry="8" fill="#ef4444" opacity="0.8"/>
+  <ellipse cx="220" cy="175" rx="12" ry="6" fill="#ef4444" opacity="0.8"/>
+  <ellipse cx="200" cy="185" rx="18" ry="10" fill="#dc2626" opacity="0.7"/>
+  <ellipse cx="160" cy="180" rx="10" ry="5" fill="#ef4444" opacity="0.8"/>
+  <ellipse cx="240" cy="180" rx="14" ry="7" fill="#dc2626" opacity="0.7"/>
+  
+  <!-- Cheese -->
+  <ellipse cx="190" cy="165" rx="8" ry="4" fill="#fef3c7" opacity="0.9"/>
+  <ellipse cx="210" cy="170" rx="6" ry="3" fill="#fef3c7" opacity="0.9"/>
+  <ellipse cx="170" cy="175" rx="5" ry="2" fill="#fef3c7" opacity="0.9"/>
+  
+  <!-- Basil leaves -->
+  <ellipse cx="185" cy="160" rx="6" ry="10" fill="#22c55e" opacity="0.8"/>
+  <ellipse cx="215" cy="165" rx="6" ry="10" fill="#16a34a" opacity="0.8"/>
+  <ellipse cx="205" cy="190" rx="5" ry="8" fill="#22c55e" opacity="0.8"/>
+  
+  <!-- Fork -->
+  <g transform="translate(120, 140)">
+    <rect x="0" y="0" width="3" height="40" fill="#6b7280" rx="1"/>
+    <rect x="-2" y="0" width="2" height="8" fill="#6b7280" rx="1"/>
+    <rect x="3" y="0" width="2" height="8" fill="#6b7280" rx="1"/>
+    <rect x="-4" y="0" width="2" height="6" fill="#6b7280" rx="1"/>
+    <rect x="5" y="0" width="2" height="6" fill="#6b7280" rx="1"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="200" y="280" text-anchor="middle" fill="#92400e" font-family="Arial, sans-serif" font-size="18" font-weight="600">
+    Italian Pasta
+  </text>
+</svg>

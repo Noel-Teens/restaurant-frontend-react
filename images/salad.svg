@@ -1,0 +1,46 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#f0fdf4"/>
+  
+  <!-- Bowl -->
+  <ellipse cx="200" cy="200" rx="120" ry="60" fill="#ffffff" stroke="#e5e7eb" stroke-width="3"/>
+  
+  <!-- Lettuce leaves -->
+  <ellipse cx="180" cy="160" rx="25" ry="15" fill="#22c55e" opacity="0.8"/>
+  <ellipse cx="220" cy="150" rx="20" ry="12" fill="#16a34a" opacity="0.8"/>
+  <ellipse cx="160" cy="180" rx="18" ry="10" fill="#15803d" opacity="0.8"/>
+  <ellipse cx="240" cy="170" rx="22" ry="14" fill="#22c55e" opacity="0.8"/>
+  <ellipse cx="200" cy="180" rx="20" ry="12" fill="#16a34a" opacity="0.8"/>
+  
+  <!-- Tomatoes -->
+  <circle cx="190" cy="170" r="8" fill="#ef4444"/>
+  <circle cx="210" cy="165" r="8" fill="#ef4444"/>
+  <circle cx="170" cy="190" r="8" fill="#ef4444"/>
+  
+  <!-- Carrots -->
+  <ellipse cx="230" cy="180" rx="4" ry="12" fill="#f97316"/>
+  <ellipse cx="170" cy="170" rx="4" ry="12" fill="#f97316"/>
+  <ellipse cx="200" cy="190" rx="4" ry="12" fill="#f97316"/>
+  
+  <!-- Cucumber -->
+  <circle cx="185" cy="185" r="6" fill="#84cc16"/>
+  <circle cx="215" cy="175" r="6" fill="#84cc16"/>
+  
+  <!-- Cheese cubes -->
+  <rect x="195" y="155" width="8" height="8" fill="#fbbf24" rx="1"/>
+  <rect x="175" y="165" width="8" height="8" fill="#fbbf24" rx="1"/>
+  
+  <!-- Fork -->
+  <g transform="translate(280, 140)">
+    <rect x="0" y="0" width="2" height="30" fill="#6b7280" rx="1"/>
+    <rect x="-1" y="0" width="1.5" height="6" fill="#6b7280" rx="0.5"/>
+    <rect x="2.5" y="0" width="1.5" height="6" fill="#6b7280" rx="0.5"/>
+    <rect x="-2.5" y="0" width="1.5" height="4" fill="#6b7280" rx="0.5"/>
+    <rect x="4" y="0" width="1.5" height="4" fill="#6b7280" rx="0.5"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="200" y="270" text-anchor="middle" fill="#15803d" font-family="Arial, sans-serif" font-size="18" font-weight="600">
+    Fresh Garden Salad
+  </text>
+</svg>
